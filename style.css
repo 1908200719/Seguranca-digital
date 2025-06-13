@@ -15,7 +15,7 @@
 }
 
 body {
-    color: var(--branco);
+    color: var(--vermelho);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
